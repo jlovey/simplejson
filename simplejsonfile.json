@@ -1,0 +1,12 @@
+[
+    {
+        "snippet": "snippet_1",
+        "id": "doc1",
+        "title": "title_1"
+    },
+    {
+        "snippet": "snippet_2",
+        "id": "doc2",
+        "title": "title_2"
+    }
+]
